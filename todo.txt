@@ -1,0 +1,5 @@
+# TODO
+# Add option to fetch notices.
+# Try not to redownload stuff.
+# New releases feature.
+# Save username and password encrypted after first run.
